@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Powerking Tips</string>
+    <string name="heading">POWERKING TIPS 👑</string>
+    <string name="slogan">super charge your bet</string>
+    <string name="terms_of_service">Terms of Service</string>
+    //urls
+    <string name="telegram_channel">https://t.me/powerkingtips</string>
+    <string name="x_profile">https://www.x.com/@powerking_tips</string>
+    <string name="fb_page">https://www.facebook.com/profile.php?id=61565015363367&amp;mibextid=ZbWKwL</string>
+    <string name="affiliate_url">https://www.afiliapub.com/affiliates/scripts/click.php?a_aid=23765767&amp;a_bid=051533c4</string>
+    <string name="whatsapp_channel">https://whatsapp.com/channel/0029VajZ82OIN9iprM9OG638</string>
+    <string name="telegram_admin">https://t.me/Power_predict</string>
+    <string name="more_apps_url">https://play.google.com/store/apps/developer?id=Drew90</string>
+
+    <!--Ad Unit -->
+    <string name="App_Id">ca-app-pub-4311390165359042~2695077643</string>
+    <string name="Interstitial_Ad_Unit">ca-app-pub-4311390165359042/3375906400</string>
+    <string name="Banner_Ad_Unit">ca-app-pub-4311390165359042/3760747304</string>
+    <string name="App_Open_Manager">ca-app-pub-4311390165359042/55703592890</string>
+    <string name="Native_Ad_Id">ca-app-pub-4311390165359042/1100631233</string>
+    <string name="Rewarded_Ad_Id">ca-app-pub-4311390165359042/170739560</string>
+    //api
+    <string name="api_key">c9f3dca556de86247a2c5b3fab28d30dc3d91adb6f6fa35043a46af5b9baeeb4</string>
+</resources>
